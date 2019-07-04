@@ -68,7 +68,7 @@
 				3BCDA51D2233374B002EBAEF /* assets */,
 				3BCDA51C2233373B002EBAEF /* view */,
 				3BCDA51B22333713002EBAEF /* swift */,
-				3B14B89B224E323F00F74066 /* resources */,
+				3B14B89B224E323F00F74066 /* web */,
 			);
 			path = EyeGame;
 			sourceTree = "<group>";
@@ -81,12 +81,12 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		3B14B89B224E323F00F74066 /* resources */ = {
+		3B14B89B224E323F00F74066 /* web */ = {
 			isa = PBXGroup;
 			children = (
 				3B8BB8FA224D4C3300C05005 /* BullsEye.html */,
 			);
-			path = resources;
+			path = web;
 			sourceTree = "<group>";
 		};
 		3BCDA51B22333713002EBAEF /* swift */ = {
@@ -343,7 +343,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = B57TCZ5HYU;
 				INFOPLIST_FILE = EyeGame/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.2;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -364,7 +364,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = B57TCZ5HYU;
 				INFOPLIST_FILE = EyeGame/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.2;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
